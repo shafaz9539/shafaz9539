@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on sambhram website<br>🌱 I’m currently learning BE CSE<br>💬 Ask me about<br>⚡ Fun fact
+🔧 Current Project: Developing the Sambhram event registration website using the MERN stack (MongoDB, Express.js, React, Node.js). 
+🎓 Education: Pursuing a Bachelor's Degree in Computer Science Engineering.
+💡 Expertise: Web development, serverless architecture, event registration systems.
+⚡ Fun Fact: I'm passionate about optimizing user experiences and integrating modern web technologies.
 
 
 ## 🌐 Socials:
