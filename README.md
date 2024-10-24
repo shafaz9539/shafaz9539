@@ -1,8 +1,8 @@
 # 💫 About Me:
-- **🔧 Working on**: Sambhram event registration website (MERN stack)
-- **🎓 Studying**: BE in Computer Science Engineering
-- **💡 Skills**: Web dev, serverless, event systems
-- **⚡ Fun fact**: I’m always exploring new technologies to level up my skills!
+- 🔧 Working on**: Sambhram event registration website (MERN stack)
+- 🎓 Studying**: BE in Computer Science Engineering
+- 💡 Skills**: Web dev, serverless, event systems
+- ⚡ Fun fact**: I’m always exploring new technologies to level up my skills!
 
 
 ## 🌐 Socials:
