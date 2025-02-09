@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! I'm a Full-Stack Developer passionate about building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I love solving complex problems, working with backend APIs, and integrating AI into projects.<br><br>
-### 💡 Projects I've worked on:
+## 💡 Projects I've worked on:
 🚀 Sambhram – A national-level college fest registration platform<br>🤖 AI-powered Chatbot – PDF-based Q&A system using OpenAI & LangChain<br>🎯 Freelancer Management System – End-to-end project & client management
 
 
