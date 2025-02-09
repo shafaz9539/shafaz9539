@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Hi there! I'm a Full-Stack Developer passionate about building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I love solving complex problems, working with backend APIs, and integrating AI into projects.
+**Hi there! I'm a Full-Stack Developer passionate about building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I love solving complex problems, working with backend APIs, and integrating AI into projects.**
 
 
 # 📫 Let’s Connect::
