@@ -1,11 +1,8 @@
 # 💫 About Me:
-**🔧 Working on**: Sambhram event registration website (MERN stack)  
-**🎓 Studying**: BE in Computer Science Engineering    
-**💡 Skills**: Web dev, serverless, event systems  
-**⚡ Fun fact**: I’m always exploring new technologies to level up my skills!  
+**Hi there! I'm a Full-Stack Developer passionate about building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I love solving complex problems, working with backend APIs, and integrating AI into projects.
 
 
-## 🌐 Socials:
+# 📫 Let’s Connect::
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafaz_khazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shafazabdulla/) 
 
 # 💻 Tech Stack:
