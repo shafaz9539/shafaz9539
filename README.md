@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header&text=Abdulla%20Shafaz%20K%20U&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-**Software Developer** at [Digma Marketing] — building an omnichannel messaging platform (WhatsApp, Instagram, Facebook) from the ground up.
+**Software Developer** — building an omnichannel messaging platform (WhatsApp, Instagram, Facebook) from the ground up.
 
 Previously shipped a national-level fest registration platform, a PDF Q&A system using RAG + LangChain, and a freelancer management system.
 
